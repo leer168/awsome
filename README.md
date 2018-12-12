@@ -9,9 +9,15 @@
 
 #### 前端
 [每个 JavaScript 工程师都应懂的33个概念](https://github.com/stephentian/33-js-concepts)
+
 [廖雪峰官网](https://www.liaoxuefeng.com)
+
 [JS 函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
+
 [Ramda:一款实用的 JavaScript 函数式编程库](http://ramda.cn/)
+
 [ 30 seconds of code](https://30secondsofcode.org/)
+
 [Underscore](https://underscorejs.org/)
+
 [Lodash](https://lodash.com/)
