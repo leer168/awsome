@@ -21,3 +21,33 @@
 [Underscore](https://underscorejs.org/)
 
 [Lodash](https://lodash.com/)
+
+
+#### H5开发
+CSS动画
+animate.css https://github.com/daneden/animate.css
+magic.css https://github.com/miniMAC/magic
+Hover.css http://ianlunn.github.io/Hover/
+velocity.js https://github.com/julianshapiro/velocity
+anime.js https://github.com/juliangarnier/anime
+
+JS引擎和库
+Hilo https://github.com/hiloteam/Hilo
+Phaser https://github.com/photonstorm/phaser
+pixi.js https://github.com/pixijs/pixi.js
+melonjs https://github.com/melonjs/melonjs
+playcanvas https://github.com/playcanvas/engine
+LayaAir http://www.layabox.com
+白鹭引擎 https://www.egret.com
+createJs https://github.com/CreateJS
+snap.svg https://github.com/adobe-webplatform/Snap.svg
+svg.js https://github.com/svgdotjs/svg.js
+d3.js https://d3js.org
+threes.js https://threejs.org
+
+最后列举一些移动端 H5 开发可参考的内容：
+真机调试 https://github.com/jieyou/remote_inspect_web_on_real_device
+vConsole: 客户端内 H5 调试 https://github.com/WechatFE/vConsole
+移动端布局终极解决方案 https://github.com/imochen/hotcss
+mobileHack https://github.com/RubyLouvre/mobileHack
+H5项目常见问题汇总及解决方案 https://github.com/FrontEndRoad/HTML5-FAQ
